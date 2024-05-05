@@ -26,6 +26,11 @@ body {
     background-color: #f3f4f6;
 }
 
+#mapid {
+    width: 100%;
+    height: 300px;
+}
+
 a {
     text-decoration: none;
     color: inherit;
